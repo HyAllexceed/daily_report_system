@@ -1,7 +1,7 @@
 package constants;
 
 public enum AttributeConst {
-    FLUSU("flush"),
+    FLUSH("flush"),
 
     MAX_ROW("maxRow"),
     PAGE("page"),
